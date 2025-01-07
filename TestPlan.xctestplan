@@ -1,0 +1,18 @@
+{
+  "configurations" : [
+    {
+      "id" : "375115E2-3817-451B-AD55-2F5771802BC1",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+
+  ],
+  "version" : 1
+}
